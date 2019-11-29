@@ -69,7 +69,7 @@ Installed Go for linux/386 in /home/<user>/<new-work-dir>/src/goroot
 Installed commands in /home/<user>/<new-work-dir>/src/goroot/bin
 ```
 
-Note that the resulting binary will be in /home/<user>/<new-work-dir>/src/goroot/bin/linux_386. Change to that directory and run ```./go env``` to confirm. Output should be similar to
+Note that the resulting binary will be in ```/home/<user>/<new-work-dir>/src/goroot/bin/linux_386```. Change to that directory and run ```./go env``` to confirm. Output should be similar to
   
 ```
 GO111MODULE=""
