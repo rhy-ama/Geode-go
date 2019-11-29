@@ -107,7 +107,8 @@ PKG_CONFIG="pkg-config"
 GOGCCFLAGS="-fPIC -m32 -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build761101590=/tmp/go-build -gno-record-gcc-switches"
 
 ```
-   
+
+Note that the Go (golang) is distributed under [this](https://github.com/golang/go/blob/master/LICENSE) license subject to the following copyright notice: ```Copyright (c) 2009 The Go Authors. All rights reserved.```
 
 **Sources:**
 
