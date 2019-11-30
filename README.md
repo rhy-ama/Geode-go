@@ -3,7 +3,7 @@ Go version go1.13.4 linux/386 built with appropriate flags to support AMD Geode 
 
 Prerequisites: gcc and git
 
-1. Install Go 1.4 bootstrap compiler sources in C with all the fixes from [Install Go compiler binaries](https://dl.google.com/go/go1.4-bootstrap-20171003.tar.gz) section of [Installing Go from source](https://golang.org/doc/install/source) guide
+1. Install Go 1.4 bootstrap compiler [sources](https://dl.google.com/go/go1.4-bootstrap-20171003.tar.gz) in C as per "Install Go compiler binaries" section of [Installing Go from source](https://golang.org/doc/install/source) guide
 
 ```
 from your work directory
