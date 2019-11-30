@@ -24,12 +24,12 @@ export CGO_ENABLED=0
 
 **Note the GO386=387 flag**
 
-3.
+3. Compile
 ```
 GOOS=linux GOARCH=386 GO386=387 ./make.bash
 ```
 
-4. Check supported architecture (should be GOARCH=386)
+4. Check compiled binary supported architecture (should be GOARCH=386)
 ```
 > cd..
 > cd bin
