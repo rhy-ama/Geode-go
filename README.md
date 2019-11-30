@@ -108,6 +108,8 @@ GOGCCFLAGS="-fPIC -m32 -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build761101
 
 ```
 
+For your convinience and subject to all relevant legal terms, this repo has the binary in the /bin directory compiled 29/11/2019.
+
 Note that the Go (golang) is distributed under [this](https://github.com/golang/go/blob/master/LICENSE) license subject to the following copyright notice: ```Copyright (c) 2009 The Go Authors. All rights reserved.```
 
 **Sources:**
